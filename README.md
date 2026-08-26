@@ -1,5 +1,9 @@
 # Embedded Device Programming
 
+**University of Cambridge Engineering Tripos**  
+**Completed: December 2024**  
+**Languages/Tools: C++, ARM MBed OS, I2C Communication**
+
 Embedded C++ programming exercises completed collaboratively as part of University of Cambridge Engineering coursework using an ARM Mbed-enabled microcontroller.
 
 The project explores fundamental embedded systems concepts including digital I/O, hardware interrupts, button debouncing, timers, I2C sensor communication and serial data transfer.
