@@ -1,0 +1,18 @@
+# Build outputs
+BUILD/
+*/BUILD/
+
+# Compiled files
+*.o
+*.elf
+*.bin
+*.hex
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+
+# Temporary files
+*.tmp
