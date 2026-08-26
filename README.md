@@ -1,6 +1,5 @@
 # Embedded Device Programming
 
-**University of Cambridge Engineering Tripos**  
 **Completed: December 2024**  
 **Languages/Tools: C++, ARM MBed OS, I2C Communication**
 
